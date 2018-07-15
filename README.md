@@ -18,7 +18,7 @@ olarak tespit edilmiştir.
 
 TASARIM
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](https://github.com/DenizBabat/Multi-Client-Server-Provider/blob/master/server-client.png "Title")
 
 yukarıda çizildiği gibi program kodlanmıştır. Çizimde signal ve timer lar
 gösterilmedi. Ama signal geldiği zaman clientlera mesaj yollanma bilgisi
